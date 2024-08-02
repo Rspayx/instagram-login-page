@@ -93,9 +93,9 @@ ul {
     padding: 10px;
 }
 
-#auth {
+.auth {
 
-    max-width: 390px;
+    width: 390px;
 }
 
 #mobile {
