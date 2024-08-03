@@ -12,16 +12,13 @@ h1 {
     margin: 0;
     padding: 0;
 }
-
 body {
-
     background-color: #fafafa;
     height: 100vh;
 }
 
 
 main {
-
     margin: auto;
     max-width: 935px;
 }
